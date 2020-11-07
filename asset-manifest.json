@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yashvi-jaju-uniflow/static/css/main.8cd4174f.chunk.css",
+    "main.js": "/yashvi-jaju-uniflow/static/js/main.d2321d12.chunk.js",
+    "main.js.map": "/yashvi-jaju-uniflow/static/js/main.d2321d12.chunk.js.map",
+    "runtime-main.js": "/yashvi-jaju-uniflow/static/js/runtime-main.74f4185b.js",
+    "runtime-main.js.map": "/yashvi-jaju-uniflow/static/js/runtime-main.74f4185b.js.map",
+    "static/js/2.472f5159.chunk.js": "/yashvi-jaju-uniflow/static/js/2.472f5159.chunk.js",
+    "static/js/2.472f5159.chunk.js.map": "/yashvi-jaju-uniflow/static/js/2.472f5159.chunk.js.map",
+    "static/js/3.ba6421c9.chunk.js": "/yashvi-jaju-uniflow/static/js/3.ba6421c9.chunk.js",
+    "static/js/3.ba6421c9.chunk.js.map": "/yashvi-jaju-uniflow/static/js/3.ba6421c9.chunk.js.map",
+    "index.html": "/yashvi-jaju-uniflow/index.html",
+    "static/css/main.8cd4174f.chunk.css.map": "/yashvi-jaju-uniflow/static/css/main.8cd4174f.chunk.css.map",
+    "static/js/2.472f5159.chunk.js.LICENSE.txt": "/yashvi-jaju-uniflow/static/js/2.472f5159.chunk.js.LICENSE.txt",
+    "static/media/about_uniflow_thumbnail.2e6ce09e.jpg": "/yashvi-jaju-uniflow/static/media/about_uniflow_thumbnail.2e6ce09e.jpg",
+    "static/media/stock1_thumbnail.68d1fd42.jpg": "/yashvi-jaju-uniflow/static/media/stock1_thumbnail.68d1fd42.jpg",
+    "static/media/stock2_thumbnail.902c5e4e.jpg": "/yashvi-jaju-uniflow/static/media/stock2_thumbnail.902c5e4e.jpg",
+    "static/media/uniflow_primary.6425075f.jpeg": "/yashvi-jaju-uniflow/static/media/uniflow_primary.6425075f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74f4185b.js",
+    "static/js/2.472f5159.chunk.js",
+    "static/css/main.8cd4174f.chunk.css",
+    "static/js/main.d2321d12.chunk.js"
+  ]
+}
